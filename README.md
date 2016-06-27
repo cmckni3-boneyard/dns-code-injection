@@ -1,6 +1,12 @@
 # Application demonstrating DNS code injection
 
-Remember to sanitize inputs
+*DO NOT USE THIS APPLICATION IN PRODUCTION. FOR DEMONSTRATION PURPOSES ONLY*
+
+Remember to sanitize/escape inputs especially when they will be output.
+
+## Requirements
+
+* Ruby 1.9.3+
 
 ## Run the application
 
