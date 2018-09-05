@@ -2,7 +2,7 @@
 
 *DO NOT USE THIS APPLICATION IN PRODUCTION. FOR DEMONSTRATION PURPOSES ONLY*
 
-Remember to sanitize/escape inputs especially when they will be output.
+Remember to sanitize/escape inputs. **ALWAYS**
 
 ## Requirements
 
